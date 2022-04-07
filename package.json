@@ -1,0 +1,27 @@
+{
+  "name": "front-end-learning-ts",
+  "version": "1.0.0",
+  "description": "- [TypeScript 入门教程](http://ts.xcatliu.com/)\r - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)\r - [vscode+typescript开发环境搭建](https://www.helloworld.net/p/1473995726)\r - [一份不可多得的 TS 学习指南（1.8W字）](https://juejin.cn/post/6872111128135073806#heading-108)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MessiHL/front-end-learning-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MessiHL/front-end-learning-ts/issues"
+  },
+  "homepage": "https://github.com/MessiHL/front-end-learning-ts#readme",
+  "dependencies": {
+    "@types/node": "^17.0.23"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.2",
+    "@tsconfig/recommended": "^1.0.1"
+  }
+}
